@@ -1,4 +1,5 @@
 flask
 twilio
 gunicorn
-python-dotenv
+gspread
+oauth2client

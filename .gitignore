@@ -1,0 +1,6 @@
+*.pyc
+__pycache__/
+learning_hours.json
+.env
+venv/
+env/
